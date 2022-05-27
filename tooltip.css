@@ -6,7 +6,7 @@
     position: absolute;
     z-index: -21;
     content: '';
-    top: 100%;
+    top: 100%; /* To the top of the tooltip */
     left: 50%;
     height: 0;
     width: 0;
@@ -43,7 +43,7 @@
     position: absolute;
     z-index: -21;
     content: '';
-    bottom: 100%;
+    bottom: 100%; /* To the bottom of the tooltip */
     left: 50%;
     height: 0;
     width: 0;
@@ -77,7 +77,7 @@
     content: " ";
     position: absolute;
     top: 50%;
-    right: 100%; /* To the left of the tooltip */
+    right: 100%; /* To the right of the tooltip */
     margin-top: -8px;
     border-width: 8px;
     border-style: solid;
