@@ -27,4 +27,10 @@ this how u can implement it
 </v-tooltip>
 ```
 
+and for Vuetify's default tooltip style:
+
+```html
+<v-tooltip content-class="tooltip-top"></v-tooltip>
+```
+
 ![image](https://user-images.githubusercontent.com/20104015/127085657-a5635a86-3b27-4689-b737-1b608d9ffd42.png)
