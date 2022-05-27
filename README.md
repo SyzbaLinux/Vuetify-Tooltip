@@ -1,5 +1,5 @@
 # Vuetify-Tooltip
-the given css adda an arrow to the vuetify tootltip
+the given css add an arrow to the vuetify tootltip
 
 
 ## Contributions
